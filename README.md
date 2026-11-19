@@ -7,19 +7,7 @@
 <h3 align="center">YOUR FLIGHT. YOUR EXPERIENCE.</h3>
 
 <p align="center">
-  An independent flight simulator developed by **Amater Studio**.
-</p>
-
-<p align="center">
-  [Official Website](https://amaterstudio-official.github.io/MyWingsOfficialSite/) ·
-  [GitHub Organization](https://github.com/AmaterStudio-Official) ·
-  [Development Roadmap](ROADMAP.md)
-</p>
-
-<p align="center">
-  ![Pre-Alpha](https://img.shields.io/badge/Development-Pre--Alpha-orange)
-  ![Unreal Engine 5](https://img.shields.io/badge/Engine-Unreal%20Engine%205-blue)
-  ![In Development](https://img.shields.io/badge/Status-In%20Development-yellow)
+  An independent flight simulator developed by Amater Studio.
 </p>
 
 ---
