@@ -57,6 +57,10 @@ Follow the project's development progress and upcoming milestones:
 
 Screenshots and development previews will be published as development progresses.
 
+<p align="center">
+  <img src="screenshots/MyWings0.0.1-1.png" alt="MyWings 2026 Screenshot" width="220">
+</p>
+
 More media will be available in the `screenshots/` directory.
 
 ## Development Updates
