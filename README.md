@@ -1,167 +1,172 @@
 # ✈️ MyWings 2026
 
-\<p align="center">
-&#x20; \<img src="media/MyWingsLogo.png" alt="MyWings 2026 Logo" width="260">
-\</p>
+<p align="center">
+  <img src="media/MyWingsLogo.png" alt="MyWings 2026 Logo" width="260">
+</p>
 
-\<h3 align="center">YOUR FLIGHT. YOUR EXPERIENCE.\</h3>
+<h3 align="center">YOUR FLIGHT. YOUR EXPERIENCE.</h3>
 
-\<p align="center">   An independent flight simulator developed by \<strong>Amater Studio\</strong>. \</p>
+<p align="center">
+  An independent flight simulator developed by **Amater Studio**.
+</p>
 
-\<p align="center">   \<a href="[https://amaterstudio-official.github.io/MyWingsOfficialSite/](https://amaterstudio-official.github.io/MyWingsOfficialSite/)">Official Website\</a>   &nbsp;•&nbsp;   \<a href="[https://github.com/AmaterStudio-Official](https://github.com/AmaterStudio-Official)">GitHub Organization\</a>   &nbsp;•&nbsp;   \<a href="ROADMAP.md">Development Roadmap\</a> \</p>
+<p align="center">
+  [Official Website](https://amaterstudio-official.github.io/MyWingsOfficialSite/) ·
+  [GitHub Organization](https://github.com/AmaterStudio-Official) ·
+  [Development Roadmap](ROADMAP.md)
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Development-Pre--Alpha-orange](https://img.shields.io/badge/Development-Pre--Alpha-orange)" alt="Development Stage">
-&#x20; \<img src="[https://img.shields.io/badge/Engine-Unreal%20Engine%205-blue](https://img.shields.io/badge/Engine-Unreal%20Engine%205-blue)" alt="Unreal Engine 5">
-&#x20; \<img src="[https://img.shields.io/badge/Status-In%20Development-yellow](https://img.shields.io/badge/Status-In%20Development-yellow)" alt="In Development">
-&#x20; \<img src="[https://img.shields.io/badge/Studio-Amater%20Studio-black](https://img.shields.io/badge/Studio-Amater%20Studio-black)" alt="Amater Studio">
-\</p>
+<p align="center">
+  ![Pre-Alpha](https://img.shields.io/badge/Development-Pre--Alpha-orange)
+  ![Unreal Engine 5](https://img.shields.io/badge/Engine-Unreal%20Engine%205-blue)
+  ![In Development](https://img.shields.io/badge/Status-In%20Development-yellow)
+</p>
 
 ---
 
-## About MyWings 2026
+## About the Project
 
-**MyWings 2026** is an independent flight simulator project focused on creating an immersive aviation experience.
+**MyWings 2026** is an independent flight simulator created with the ambition of delivering an immersive aviation experience.
 
-Built with **Unreal Engine 5** and **Cesium for Unreal**, the project aims to bring together aircraft flight physics, interactive controls and an expanding world environment.
+Developed by **Amater Studio** using **Unreal Engine 5** and **Cesium for Unreal**, the project combines aircraft flight physics, interactive flight controls and geographic world integration.
 
-The goal is to develop a simulator that can grow over time through new aircraft, improved flight systems, environmental updates and additional features.
+The vision is to build a simulator that can continuously expand through new aircraft, improved flight systems, larger environments and additional aviation features.
 
-MyWings 2026 is being developed independently by **Amater Studio**.
+From the first takeoff to future aircraft expansions, MyWings 2026 is being built step by step.
+
+---
 
 ## Development Status
 
-\<p align="center">
-&#x20; \<strong>PRE-ALPHA DEVELOPMENT\</strong>
-\</p>
+**Current Stage: Early Pre-Alpha**
 
-MyWings 2026 is currently in its early Pre-Alpha stage.
+MyWings 2026 is actively under development.
 
-The project already has an initial foundation for aircraft flight, including takeoff, flight and landing mechanics. Development is continuing on the core simulator experience, user interface and world environment.
+The current project includes an initial foundation for aircraft flight, with basic takeoff, flight and landing mechanics. Work is continuing on the simulator's startup flow, interface, aircraft experience and environment.
 
-**The first playable public build is not available yet.**
+**The first playable public release is not available yet.**
 
-The simulator is still being developed and tested. Features, systems and planned release milestones may change as development progresses.
+Early development means that features may be incomplete, experimental or subject to change.
 
 ---
 
 ## Screenshots
 
-A look at the current development of MyWings 2026.
+A glimpse into the current development of MyWings 2026.
 
-\<p align="center">   \<img src="screenshots/MyWings0.0.1-4.png" alt="MyWings 2026 – Development Screenshot 1" width="48%">   &nbsp;   \<img src="screenshots/MyWings0.0.1-6.png" alt="MyWings 2026 – Development Screenshot 2" width="48%"> \</p>
+<p align="center">
+  <img src="screenshots/MyWings0.0.1-4.png" alt="MyWings 2026 Screenshot 1" width="48%">
+  <img src="screenshots/MyWings0.0.1-6.png" alt="MyWings 2026 Screenshot 2" width="48%">
+</p>
 
-*More screenshots and development previews will be added as the project evolves.*
+More screenshots, previews and development footage will be published as the project progresses.
 
 ---
 
-## Core Features
+## Simulator Features
 
-The simulator is being developed around several key areas.
+MyWings 2026 is being developed around three main areas.
 
 ### 🛩️ Aircraft & Flight
 
 - Aircraft flight physics
 - Takeoff, flight and landing mechanics
-- Aircraft controls
-- Further aircraft systems and improvements
+- Aircraft control systems
+- Cockpit and external camera perspectives
+- Future aircraft and system expansions
 
 ### 🌍 World & Environment
 
 - Geographic world integration
-- Cesium-powered environment
+- Cesium-powered environments
 - Progressive world loading
-- Future environment expansion
+- Future environmental expansion
 
 ### 🎮 Simulator Experience
 
 - Main menu and user interface
-- Cockpit and external camera views
-- Future aircraft instruments and systems
-- Continuous improvements to the overall experience
+- Aircraft interaction and controls
+- Future instruments and aircraft systems
+- Performance and stability improvements
 
-*Some features are still planned or under development and are not necessarily available in the current project.*
+*The features listed above include both existing foundations and planned development. Not all features are currently available.*
 
 ---
 
 ## Development Roadmap
 
-MyWings 2026 is being developed in stages, from its first Pre-Alpha foundations to a planned full release.
+The development of MyWings 2026 is divided into several milestones.
 
-| Version | Milestone                     |
-| ------- | ----------------------------- |
-| `0.0.1` | First Public Preview          |
-| `0.1.0` | First Development Milestone   |
-| `0.2.0` | Aircraft Expansion            |
-| `0.3.0` | World and Simulator Expansion |
-| `0.5.0` | Major Development Update      |
-| `0.8.0` | Beta                          |
-| `0.9.0` | Release Candidate             |
-| `1.0.0` | Official Release              |
+| Version | Development Milestone |
+|:---:|---|
+| **0.0.1** | First Public Preview |
+| **0.1.0** | First Development Milestone |
+| **0.2.0** | Aircraft Expansion |
+| **0.3.0** | World & Simulator Expansion |
+| **0.5.0** | Major Development Update |
+| **0.8.0** | Beta |
+| **0.9.0** | Release Candidate |
+| **1.0.0** | Official Release |
 
-These milestones are development targets, not guaranteed release dates.
+These milestones represent development goals and are not guaranteed release dates.
 
-[**→ Explore the Full Development Roadmap**](ROADMAP.md)
+**[View the Complete Development Roadmap →](ROADMAP.md)**
 
 ---
 
 ## Technology
 
-MyWings 2026 is built with the following technologies:
-
-| Technology                | Purpose                               |
-| ------------------------- | ------------------------------------- |
-| Unreal Engine 5           | Main game engine                      |
-| Cesium for Unreal         | World and geographic integration      |
-| C++ / Unreal Engine tools | Simulator development                 |
-| GitHub                    | Source code and project documentation |
+| Technology | Purpose |
+|---|---|
+| **Unreal Engine 5** | Main game engine |
+| **Cesium for Unreal** | Geographic world integration |
+| **C++ / Unreal Engine tools** | Simulator development |
+| **GitHub** | Project documentation and development tracking |
 
 ---
 
 ## Project Documentation
 
-Explore the project's development documentation:
+Interested in the development process? Explore the project documentation.
 
-| Document                                      | Description                                        |
-| --------------------------------------------- | -------------------------------------------------- |
-| [Development](DEVELOPMENT.md)                 | Development overview and current priorities        |
-| [Roadmap](ROADMAP.md)                         | Planned versions and milestones                    |
-| [Changelog](CHANGELOG.md)                     | Development and release history                    |
+| Document | Description |
+|---|---|
+| [Development](DEVELOPMENT.md) | Development process, technologies and priorities |
+| [Roadmap](ROADMAP.md) | Planned milestones and future versions |
+| [Changelog](CHANGELOG.md) | Development and release history |
 | [Third-Party Notices](THIRD_PARTY_NOTICES.md) | External technologies and license acknowledgements |
-| [License](LICENSE)                            | Licensing information                              |
+| [License](LICENSE) | Project licensing information |
 
 ---
 
-## Follow Development
+## Follow the Project
 
-Follow MyWings 2026 to keep up with its progress.
+Stay up to date with the development of MyWings 2026.
 
-- **GitHub:** Development updates, project documentation and issue tracking.
-- **Official Website:** Information about the project and Amater Studio.
-- **GitHub Releases:** Future version announcements and public builds.
+- **GitHub:** Follow development, updates and project discussions.
+- **Official Website:** Discover more about MyWings 2026 and Amater Studio.
+- **GitHub Releases:** Future announcements and playable builds.
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/AmaterStudio-Official](https://github.com/AmaterStudio-Official)">Explore Amater Studio on GitHub\</a>
-&#x20; &nbsp;•&nbsp;
-&#x20; \<a href="[https://amaterstudio-official.github.io/MyWingsOfficialSite/](https://amaterstudio-official.github.io/MyWingsOfficialSite/)">Visit the Official Website\</a>
-\</p>
+<p align="center">
+  **[VISIT THE OFFICIAL WEBSITE](https://amaterstudio-official.github.io/MyWingsOfficialSite/)**
+</p>
 
 ---
 
-## Developer
+## Developed by
 
-\<p align="center">
-&#x20; \<strong>AMATER STUDIO\</strong>
-&#x20; \<br>
-&#x20; Independent Game Development
-\</p>
+<p align="center">
+  **AMATER STUDIO**
 
-MyWings 2026 is an independently developed project by Amater Studio.
+  Independent Game Development
+</p>
+
+MyWings 2026 is independently developed by Amater Studio.
 
 ---
 
-\<p align="center">
-&#x20; \<strong>MYWINGS 2026\</strong>
-&#x20; \<br>
-&#x20; \<em>Your Flight. Your Experience.\</em>
-\</p>
+<p align="center">
+  **MYWINGS 2026**
+
+  *Your Flight. Your Experience.*
+</p>
