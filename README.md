@@ -83,10 +83,8 @@ MyWings 2026 is an independent project developed by Amater Studio.
 
 ---
 
-<p align="center">
-  **MYWINGS 2026**
-  <br>
-  Your Flight. Your Experience.
-  <br><br>
-  Developed by Amater Studio
-</p>
+**MYWINGS 2026**
+<br>
+Your Flight. Your Experience.
+<br><br>
+
