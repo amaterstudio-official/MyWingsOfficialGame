@@ -5,7 +5,7 @@
 **Your Flight. Your Experience.**
 
 <p align="center">
-  <img src="media/logo.png" alt="MyWings 2026 Logo" width="220">
+  <img src="media/MyWingsLogo.png" alt="MyWings 2026 Logo" width="220">
 </p>
 
 <p align="center">
