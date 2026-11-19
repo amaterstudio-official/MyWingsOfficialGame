@@ -8,7 +8,7 @@ All features, milestones and release plans are subject to change as development 
 
 ---
 
-## 🛠️ Pre-Alpha
+## Pre-Alpha
 
 The Pre-Alpha phase focuses on building the foundation of the simulator, introducing aircraft and developing its core systems.
 
@@ -79,7 +79,7 @@ The Pre-Alpha phase focuses on building the foundation of the simulator, introdu
 
 ---
 
-## 🧪 Beta
+## Beta
 
 The Beta phase focuses on improving stability, testing features and preparing the simulator for its full release.
 
@@ -101,7 +101,7 @@ The Beta phase focuses on improving stability, testing features and preparing th
 
 ---
 
-## 🚀 Full Release
+## Full Release
 
 ### 1.0.0 – Official Release
 
@@ -115,7 +115,7 @@ The Beta phase focuses on improving stability, testing features and preparing th
 
 ---
 
-## 📌 Important Notes
+## Important Notes
 
 - This roadmap represents development intentions, not guaranteed release dates.
 - Features may be changed, postponed or removed.
