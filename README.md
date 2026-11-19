@@ -6,7 +6,7 @@ MyWings 2026 is an independent flight simulator developed with Unreal Engine, fo
 
 ### Project Status
 
-- Version: 0.1.0
+- Version: 0.0.1
 - Development Stage: Pre-Alpha
 - Engine: Unreal Engine
 - Platform: Windows
