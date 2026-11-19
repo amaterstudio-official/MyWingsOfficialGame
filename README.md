@@ -1,4 +1,4 @@
-# ✈️ MyWings 2026
+# MyWings Open-Source Flight Simulator
 
 <p align="center">
   <img src="media/MyWingsLogo.png" alt="MyWings 2026 Logo" width="260">
