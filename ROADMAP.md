@@ -19,7 +19,7 @@ The Pre-Alpha phase focuses on building the foundation of the simulator, introdu
 - [ ] First playable public build
 - [ ] Basic flight experience
 - [ ] Initial aircraft
-- [x] Basic user interface
+- [ ] Basic user interface
 - [ ] Initial world environment
 
 ### 0.0.x – Early Development
